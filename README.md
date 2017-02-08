@@ -7,6 +7,7 @@ Use the links below to access API documentation, learn how to use the Tufin API 
 - [Introduction to Tufin REST API](https://download.tufin.com/support/downloads/Introduction_to_Tufin_REST_API.pdf)
 - [Using Tufin's REST API collections in Postman](https://download.tufin.com/support/downloads/Using_Tufin_REST_API_collections_in_Postman.pdf)
 
+**Postman collection:**
 - [Tufin's API collections for postman](https://github.com/Tufin/postman)
 
 **Online documentation:**
