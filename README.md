@@ -19,3 +19,6 @@ Use the links below to access API documentation, learn how to use the Tufin API 
 - [Calling Tufin APIs from a python script on TufinOS](https://plus.google.com/u/0/110390571728868776190/posts/YZdXUqV8oSG?sfc=true)
 - [A practical demo of Tufin's RESTful APIs](https://github.com/Tufin/Firewall-Access-Request/blob/master/FirewallAccessRequest.xlsm?raw=true)
 - [Pytos - A Python SDK for Tufin Orchestration Suite](https://github.com/Tufin/pytos)
+
+**The Tufin Developer Community:**  
+- [https://community.tufin.com](https://community.tufin.com)
