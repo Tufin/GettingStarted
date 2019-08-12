@@ -16,7 +16,7 @@ Use the links below to access API documentation, learn how to use the Tufin API 
 - [SecureChange & SecureApp - latest GA  version swagger documentation](https://forum.tufin.com/support/kc/latest/securechangeworkflow/apidoc/)
 
 **Code examples and demos:**
-- [Calling Tufin APIs from a python script on TufinOS](https://plus.google.com/u/0/110390571728868776190/posts/YZdXUqV8oSG?sfc=true)
+- [Calling Tufin APIs from a python script on TufinOS](https://community.tufin.com/t/calling-tufin-apis-from-a-python-script-on-tufinos-insta/509)
 - [A practical demo of Tufin's RESTful APIs](https://github.com/Tufin/Firewall-Access-Request/blob/master/FirewallAccessRequest.xlsm?raw=true)
 - [Pytos - A Python SDK for Tufin Orchestration Suite](https://github.com/Tufin/pytos)
 
