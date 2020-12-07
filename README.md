@@ -12,8 +12,8 @@ Use the links below to access API documentation, learn how to use the Tufin API 
 
 **Online documentation:**
 - [API Documentation on the Tufin Knowledge Center](https://forum.tufin.com/support/kc/latest/index.htm?toc.htm?securetrack_api.htm)
-- [SecureTrack - latest GA version swagger documentation](https://forum.tufin.com/support/kc/latest/securetrack/apidoc/) 
-- [SecureChange & SecureApp - latest GA  version swagger documentation](https://forum.tufin.com/support/kc/latest/securechangeworkflow/apidoc/)
+- [SecureTrack - latest GA version swagger documentation](https://forum.tufin.com/support/kc/rest-api/latest/securetrack/apidoc/) 
+- [SecureChange & SecureApp - latest GA  version swagger documentation](https://forum.tufin.com/support/kc/rest-api/latest/securechangeworkflow/apidoc/)
 
 **Code examples and demos:**
 - [Calling Tufin APIs from a python script on TufinOS](https://community.tufin.com/t/calling-tufin-apis-from-a-python-script-on-tufinos-insta/509)
