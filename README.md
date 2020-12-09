@@ -11,7 +11,7 @@ Use the links below to access API documentation, learn how to use the Tufin API 
 - [Tufin's API collections for postman](https://github.com/Tufin/postman)
 
 **Online documentation:**
-- [API Documentation on the Tufin Knowledge Center](https://forum.tufin.com/support/kc/latest/index.htm?toc.htm?securetrack_api.htm)
+- [API Documentation on the Tufin Knowledge Center](https://forum.tufin.com/support/kc/latest/index.htm?toc.htm?securetrack_api.htm#Suite/securetrack_api.htm%3FTocPath%3DThe%2520TOS%2520Developers%2520Guide%7CThe%2520TOS%2520REST%2520API%7C_____0)
 - [SecureTrack - latest GA version swagger documentation](https://forum.tufin.com/support/kc/rest-api/latest/securetrack/apidoc/) 
 - [SecureChange & SecureApp - latest GA  version swagger documentation](https://forum.tufin.com/support/kc/rest-api/latest/securechangeworkflow/apidoc/)
 
